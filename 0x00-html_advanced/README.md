@@ -8,6 +8,8 @@
 * [Can I use… Support tables for HTML5, CSS3, etc](https://caniuse.com)
 * [HTML Cheat Sheet - WebsiteSetup](https://websitesetup.org/html5-cheat-sheet/)
 
+* Generate [favicons](https://realfavicongenerator.net)
+
 ## Learning Objectives
 
 * Which guidelines to follow for HTML
